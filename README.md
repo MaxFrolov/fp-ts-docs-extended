@@ -1,0 +1,1 @@
+# fp-ts-extended-docs
